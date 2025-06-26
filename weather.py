@@ -21,7 +21,7 @@ class WeatherApp:
                 config = json.load(config_file)
                 self.api_key = config.get('api_key', '')
         except (FileNotFoundError, json.JSONDecodeError, KeyError):
-            self.api_key = "d14c849037a06d959de30fedf4759bcd"  # Fallback to hardcoded key
+            self.api_key = "Your API"  # Fallback to hardcoded key
             
         self.base_url = "http://api.openweathermap.org/data/2.5/weather"
         self.forecast_url = "http://api.openweathermap.org/data/2.5/forecast"
