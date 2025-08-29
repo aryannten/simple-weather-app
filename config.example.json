@@ -1,0 +1,8 @@
+{
+    "api_key": "your_openweather_api_key_here",
+    "theme": "light",
+    "units": "metric",
+    "favorites": [],
+    "auto_refresh": false,
+    "refresh_interval": 300
+}
