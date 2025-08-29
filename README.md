@@ -23,7 +23,6 @@ weather-app/
 ├── notification_system.py  # User notification system
 ├── ui_components.py        # Reusable themed UI components
 ├── config.json            # User configuration file
-├── .kiro/                 # Kiro IDE specifications
 └── README.md              # This file
 ```
 
@@ -125,5 +124,6 @@ This project is open source and available under the MIT License.
 5. Submit a pull request
 
 ## Support
+
 
 For issues or questions, please check the error messages in the application or review the configuration settings.
