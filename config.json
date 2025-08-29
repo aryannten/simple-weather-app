@@ -1,5 +1,5 @@
 {
-    "api_key": "d14c849037a06d959de30fedf4759bcd",
+    "api_key": " YOUR API ",
     "theme": "dark",
     "units": "metric",
     "favorites": [
@@ -11,4 +11,5 @@
     ],
     "auto_refresh": true,
     "refresh_interval": 300
+
 }
